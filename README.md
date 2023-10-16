@@ -1,2 +1,2 @@
 # Simple-Calculator
-This repo is a design of full functional simple calulator created using HTML5 and CSS3
+This repo is a design of fully functional simple calculator created using HTML5, CSS3 and JavaScript.
